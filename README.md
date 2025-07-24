@@ -7,7 +7,7 @@ Bridging Business Intelligence, Data Engineering, and AI Automation.
 From Tableau dashboards to Prefect pipelines — always learning.
 
 ## Connect with me
-<p align="left"><a href="rifoworks@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/kalisrifo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36" style="margin-right: 8px"></a></p>
+<p align="left"><a href="mailto:rifoworks@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/kalisrifo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36" style="margin-right: 8px"></a></p>
 
  **<h3 align="left">Skills</h3>**
 
