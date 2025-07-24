@@ -3,14 +3,15 @@
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
-      <h1>
+      <h2>
         Rifo Irwandi — Building Reliable Data Workflows
-      </h1>
+      </h2>
     </summary>
   </ul>
 </div>
 
 Bridging Business Intelligence, Data Engineering, and AI Automation.
+
 From Tableau dashboards to Prefect pipelines — always learning.
 
 **<h3 align="left">Connect with me:</h3>** 
