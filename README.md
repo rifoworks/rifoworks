@@ -1,7 +1,5 @@
 ![Rifo Irwandi — Building Reliable Data Workflows](https://raw.githubusercontent.com/rifoworks/rifoworks/refs/heads/main/assets/github-header-image.png)
 
-![Profile views](https://komarev.com/ghpvc/?username=rifoworks&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -12,11 +10,11 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="rifoworks@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/kalisrifo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36" style="margin-right: 8px"></a></p>
-
  **<h3 align="left">Bridging Business Intelligence, Data Engineering, and AI Automation.<br/><br/>
 From Tableau dashboards to Prefect pipelines — always learning.</h3>**
+
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="rifoworks@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/kalisrifo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36" style="margin-right: 8px"></a></p>
 
  **<h3 align="left">Skills</h3>**
 
